@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/MaterialIcons-Regular.codepoints",
+      "sha1": "32f3a664235011d2687e108f5b09bdefb2e69cbd"
+    },
+    {
+      "path": "assets/fonts/MaterialIcons-Regular.ttf",
+      "sha1": "fdd6d9a4dcf82dfa414bd681d9e2623007c4c664"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsOutlined-Regular.codepoints",
+      "sha1": "78c7fed5c4b109cb348e7012d612c4b84a63b7a2"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsOutlined-Regular.otf",
+      "sha1": "54a936cd01dfa19ca6d81f848ae32646fb28657a"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsRound-Regular.codepoints",
+      "sha1": "45dc8273289bbfcf3a3ad87c4dc09a3548746b97"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsRound-Regular.otf",
+      "sha1": "90fc9870a93fe679f3f24fa8ceadecd64408bfa8"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsSharp-Regular.codepoints",
+      "sha1": "45dc8273289bbfcf3a3ad87c4dc09a3548746b97"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsSharp-Regular.otf",
+      "sha1": "76d38e77cd248a30673ad25b323b9a39b0006332"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsTwoTone-Regular.codepoints",
+      "sha1": "b51af6440556cc5b6ad1218e83e6ec6956dc5f39"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsTwoTone-Regular.otf",
+      "sha1": "6d16e0ec35a1dc5bc3d1c39120998118333c8136"
+    },
+    {
+      "path": "assets/fonts/README.md",
+      "sha1": "52d73273a2b0f297cfacfb6c3af579a5cea7c57c"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-BoldItalic.ttf",
+      "sha1": "9ec6f8b1c000fe9d081f2598d801ed85cef63a63"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Italic.ttf",
+      "sha1": "1f02c79207884c1d1adf3b0679bbacb1d17c6f39"
+    },
+    {
+      "path": "assets/fonts/Ubuntu.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    }
+  ]
+}
